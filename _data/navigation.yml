@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Home"
-    url: https://mb010.github.io/
+    url: /
   - title: "Research"
     url: /research/
   - title: "Publications"
@@ -10,6 +10,8 @@ main:
     url: /posts/
   - title: "CV"
     url: /cv/
+  - title: "Search"
+    url: /search/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"

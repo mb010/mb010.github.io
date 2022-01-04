@@ -4,8 +4,8 @@ author_profile: true
 title: Publications
 url: /publications/
 header:
-  overlay_image: /assets/images/AlanWarburton-Plant-2560x1440.jpg
-  caption: "Image by Alan Warburton / © BBC / Better Images of AI / Plant / CC-BY 4.0"
+  image: /assets/images/MeerKAT_night.jpg
+  caption: "Credit: South African Radio Astronomy Observatory (SARAO)"
 toc: true
 toc_label: "Publication Type"
 toc_icon: "fas fa-toilet-paper-slash"
@@ -18,7 +18,13 @@ For more common formats of academic profiles, please see either my
 or my [ORCID](https://orcid.org/0000-0001-5838-8405).
 
 ## Papers
+- Micah Bowles, Matt Bromley, Max Allen, and Anna Scaife, *“E(2) Equivariant Self-Attention for Radio Astronomy”*, NeurIPS Workshop: Machine Learning for the Physical Sciences, 2021.
+- Micah Bowles, Anna M M Scaife, Fiona Porter, Hongming Tang, David J Bastien, *"Attention-gating for improved radio galaxy classification"*, Monthly Notices of the Royal Astronomical Society, Volume 501, Issue 3, March 2021, Pages 4579–4595, https://doi.org/10.1093/mnras/staa3946
+- David J Bastien, Anna M M Scaife, Hongming Tang, Micah Bowles, Fiona Porter, *"Structured variational inference for simulating populations of radio galaxies"*, Monthly Notices of the Royal Astronomical Society, Volume 503, Issue 3, May 2021, Pages 3351–3370, https://doi.org/10.1093/mnras/stab588
+- Persis Misquitta, Micah Bowles, Andreas Eckart, Madeleine Yttergren, Gerold Busch, Monica Valencia-S., Nastran Fazeli, *"Interactions among intermediate redshift galaxies. The case of SDSS J134420.86+663717.8"*, Astronomy & Astrophysics, Vol. 639, July 2020. doi:10.1051/0004-6361/201937009.
 
 ## Presentations
+- Paying Attention to Astronomy Data, National Astronomy Meeting 2021, (long presentation)
 
 ## Posters
+- Attention-Gating for Improved Radio Galaxy Classification, European Astronomical Society Annual Meeting 2021.
