@@ -69,6 +69,8 @@ The transformation of the data into an image is sketched out below.
 \
 <cite style="font-size:small">Cartoon schematic of interferometric imaging. FT = Fourrier Transforms. And no, they aren't real.</cite>
 
+My colleagues made me promise to point out that this is a severe simplification: I'm skipping critical steps in scientific imaging as well as the majority of the calculations that likely don't add much value to the experience of a non-expert reader. Reach out for resources to the real meat of the problems pointed out here.
+
 ## Computation
 Considerable copmutation is required to image radio interferometric data at scale. Time for some napkin calculations: The MeerKAT array has up to 32,000 channels, 64 antenna meaning 2,018 baselines, and 4 polarisation products per baseline. Each pointing consists of 8 hours of observations with 8 second intervals. This amounts to: 32000*2018*4*6/(8/60<sup>2</sup>)=6.97 x 10<sup>9</sup> data points. At 64 bits per data point, each pointing amounts to approximately 45 TB.
 
