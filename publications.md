@@ -39,7 +39,7 @@ Persis Misquitta, __Micah Bowles__, Andreas Eckart, Madeleine Yttergren, Gerold 
 Astronomy & Astrophysics, Vol. 639, July 2020.
 
 ## Presentations
-- AT-AP-URSI 2022 (International Union of Radio Science),
+- AT-AP-URSI 2022 (International Union of Radio Science),  
 _Astrophysically Informed Priors for Self-Attention Classification in Radio Astronomy_
 - EAS 2022 (European Astronomical Society),  
 _Open-Source Domain Specific Astronomy Augmentations for your Data Set_
