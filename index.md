@@ -12,7 +12,7 @@ I am a PhD researcher at the
 working on AI and Radio Astronomy.
 Feel free to reach out!
 
-My research interests include AI and radio astronomy and are outlined on my [Research](/research/) page. I hope to expand on various concepts from time to time in a more educational, exploratory and detailed format in my [Posts](/posts/).
+My research interests include AI, deep learning, robustness, generalisability, augmentations and radio astronomy. I aim to outline these for the non-technical reader on my [Research](/research/) page.
 
 ###### SKAO-JBCA ML Club
 
@@ -22,5 +22,5 @@ Dr. Alex Clarke and Dr. Philippa Hartley at the [SKAO](https://www.skatelescope.
   - *Disseminate* the scientific value of ML to our community,
   - *Discuss* ML tools and their potential applications.
 
-For previous sessions and details on our work, please see
-the [ML Club's website](https://jbca-machinelearning.github.io/) or reach out.
+For previous ML Club sessions notes, please see the 
+[ML Club's website](https://jbca-machinelearning.github.io/).

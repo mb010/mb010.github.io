@@ -103,7 +103,7 @@ analytics:
 author:
   name             : "Micah Bowles"
   avatar           : "/assets/images/avatar.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "PhD Researcher: AI & Astronomy\nData enthusiast. Father. Always learning."
+  bio              : "PhD Researcher: AI & Astronomy\nRobustness. Gernalisability. Always Leanring."
   location         : "Manchester, UK"
   email            : #"micah.bowles@postgrad.manchester.ac.uk"
   links:
@@ -115,7 +115,7 @@ author:
       #url: "https://mb010.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      #url: "https://twitter.com/mBowlesAI/"
+      url: "https://twitter.com/Micah_mb010/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
@@ -134,7 +134,7 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+      url: "https://twitter.com/Micah_mb010/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
