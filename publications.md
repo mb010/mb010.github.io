@@ -50,10 +50,12 @@ Astronomy & Astrophysics, Vol. 639, July 2020.
 ## Selected Talks
 - The Open University May 2022, Physical Sciences Seminar (Invited),
 _Paying Attention to Radio Galaxy Morphologies_
+- EAS 2022 (European Astronomical Society),
+_Open-Source Domain Specific Astronomy Augmentations for your Data Set_
+- EAS 2022 (European Astronomical Society),
+_Challenging the Language of Astronomical Classifications_
 - AT-AP-URSI 2022 (International Union of Radio Science),  
 _Astrophysically Informed Priors for Self-Attention Classification in Radio Astronomy_
-- EAS 2022 (European Astronomical Society),  
-_Open-Source Domain Specific Astronomy Augmentations for your Data Set_
 - NAM 2021 (National Astronomy Meeting),  
 _Paying Attention to Astronomy Data_
 
