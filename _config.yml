@@ -79,7 +79,7 @@ baidu_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : "mBowlesAI"
+  username               : "Micah_mb010"
 facebook:
   username               :
   app_id                 :
@@ -94,37 +94,28 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "google-gtag", "custom"
+  provider               : google # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
     tracking_id          :
-    anonymize_ip         : # true, false (default)
+    anonymize_ip         : true #, false (default)
 
 # Site Author
 author:
   name             : "Micah Bowles"
   avatar           : "/assets/images/avatar.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "PhD Researcher: AI & Astronomy\nRobustness. Gernalisability. Always Leanring."
+  bio              : "PhD Researcher: AI & Astronomy"
   location         : "Manchester, UK"
   email            : #"micah.bowles@postgrad.manchester.ac.uk"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:micah.bowles@postgrad.manchester.ac.uk"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      #url: "https://mb010.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/Micah_mb010/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/mb010/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/micah-bowles-5863b0173/"
@@ -135,24 +126,18 @@ footer:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/Micah_mb010/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://mb010.github.io"
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
+#    - label: "GitLab"
+#      icon: "fab fa-fw fa-gitlab"
       # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
+#    - label: "Bitbucket"
+#      icon: "fab fa-fw fa-bitbucket"
       # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
+#    - label: "Instagram"
+#      icon: "fab fa-fw fa-instagram"
       # url:
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin-in"
-      url: "https://www.linkedin.com/in/micah-bowles-5863b0173/"
 
 
 # Reading Files

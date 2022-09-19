@@ -4,25 +4,23 @@ author_profile: true
 title: Publications
 url: /publications/
 header:
-  image: /assets/images/MeerKAT_composite.jpg
+  overlay_image: /assets/images/MeerKAT_composite.jpg
   caption: "Credits: South African Radio Astronomy Observatory (SARAO), Image by Alan Warburton / © BBC / Better Images of AI / Plant / CC-BY 4.0"
 toc: true
 toc_label: "Publication Type"
 toc_icon: "fas fa-toilet-paper-slash"
 ---
 
-I have been fortunate in working with incredible researchers throughout my
-academic career which reflects in the work we have been able to publish.
 For more common formats of academic profiles, please see either my
 [Google Scholar](https://scholar.google.com/citations?user=Q7ziv7YAAAAJ&hl=en)
-or my [ORCID](https://orcid.org/0000-0001-5838-8405).
+or [ORCID](https://orcid.org/0000-0001-5838-8405).
 
 
-## Selected Papers
-- _Towards Galaxy Foundation Models with Hybrid Contrastive Learning_<br>
+## Publications
+- [Towards Galaxy Foundation Models with Hybrid Contrastive Learning](https://arxiv.org/abs/2206.11927)_<br>
 Mike Walmsley, Inigo V Slijepcevic, __Micah Bowles__, Anna M M Scaife<br>
 Accepted ICML 2022, ML4Astro2022
-- _Learning Useful Representations for Radio Astronomy “in the wild” with Contrastive Learning_<br>
+- [Learning Useful Representations for Radio Astronomy “in the wild” with Contrastive Learning](https://arxiv.org/abs/2207.08666)<br>
 Inigo V Slijepcevic, Anna M M Scaife, Mike Walmsley, __Micah Bowles__<br>
 Accepted ICML 2022, ML4Astro2022
 - [E(2) Equivariant Self-Attention for Radio Astronomy](https://arxiv.org/abs/2111.04742)<br>
