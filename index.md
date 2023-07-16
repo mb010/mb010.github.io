@@ -11,10 +11,7 @@ Hello! Welcome to my personal academic webpage. I research applied AI.
 I am interested in many things including language in science, multimodal models, robustness, generalisability and more. I think a lot about about data manifolds, symmetries, and priors.
 Feel free to reach out!
 
-You can find lists of my publications in various stages of up-to-date-ness in the following places (with decreasing likelihood to be up to date):
-1. My [Google Scholar](https://scholar.google.com/citations?user=Q7ziv7YAAAAJ)
-1. My [CV (resume)](./cv), 
-1. My [publications page](./publications)
+You can find lists of my publications in various stages of up-to-date-ness in the following places (with decreasing likelihood to be up to date): [Google Scholar](https://scholar.google.com/citations?user=Q7ziv7YAAAAJ), my [CV (resume)](./cv), my [publications page](./publications).
 
 I will be submitting my PhD from the 
 [University of Manchester](https://www.manchester.ac.uk/) supervised by
