@@ -11,8 +11,7 @@ toc: true
 toc_label: "Research Overview"
 toc_icon: "fas fa-satellite-dish"
 ---
-I research artificial intelligence,
-radio astronomical imaging, and extragalactic astronomy.
+I research artificial intelligence in astronomy.
 I am funded through
 [the Alan Turing Institute](https://www.turing.ac.uk/) (the UK's national institute for data science and artificial intelligence)
 and
