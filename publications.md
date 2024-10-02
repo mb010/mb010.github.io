@@ -17,6 +17,9 @@ or [ORCID](https://orcid.org/0000-0001-5838-8405).
 
 
 ## Publications
+- Cover All Your Bases: Representations of high frequency features from masked auto encoding, in-prep, lead author.
+- [Scaling Laws for Galaxy Images](https://arxiv.org/abs/2404.02973), Submitted, co-author.
+- The Multimodal Universe: Enabling Large-Scale Machine Learning with 70TBs of Astronomical Scientific Data, NeurIPS 2024, coordinator.
 - [Towards Galaxy Foundation Models with Hybrid Contrastive Learning](https://arxiv.org/abs/2206.11927)_<br>
 Mike Walmsley, Inigo V Slijepcevic, __Micah Bowles__, Anna M M Scaife<br>
 Accepted ICML 2022, ML4Astro2022
@@ -44,6 +47,9 @@ Monthly Notices of the Royal Astronomical Society, Volume 503, Issue 3, May 2021
 - [Interactions Among Intermediate Redshift Galaxies. The case of SDSS J134420.86+663717.8](https://www.aanda.org/articles/aa/full_html/2020/07/aa37009-19/aa37009-19.html)<br>
 Persis Misquitta, __Micah Bowles__, Andreas Eckart, Madeleine Yttergren, Gerold Busch, Monica Valencia-S., Nastran Fazeli<br>
 Astronomy & Astrophysics, Vol. 639, July 2020.
+
+
+For a full list of my publications, please see my [Google Scholar profile](https://scholar.google.com/citations?user=Q7ziv7YAAAAJ&hl=en).
 
 ## Selected Talks
 - The Open University May 2022, Physical Sciences Seminar (Invited),

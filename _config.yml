@@ -104,8 +104,8 @@ author:
   name             : "Micah Bowles"
   avatar           : "/assets/images/avatar.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "PhD Researcher: AI & Astronomy"
-  location         : "Manchester, UK"
-  email            : #"micah.bowles@postgrad.manchester.ac.uk"
+  location         : "Oxford, UK"
+  email            : #"firstname.lastname@physics.ox.ac.uk"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
@@ -128,17 +128,10 @@ footer:
       url: "https://twitter.com/Micah_mb010/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://mb010.github.io"
-#    - label: "GitLab"
-#      icon: "fab fa-fw fa-gitlab"
-      # url:
-#    - label: "Bitbucket"
-#      icon: "fab fa-fw fa-bitbucket"
-      # url:
-#    - label: "Instagram"
-#      icon: "fab fa-fw fa-instagram"
-      # url:
-
+      url: "https://github.com/mb010/"
+    - label: "Google Scholar"
+      icon: "ai ai-google-scholar"
+      url: "https://scholar.google.com/citations?user=Q7ziv7YAAAAJ"
 
 # Reading Files
 include:
