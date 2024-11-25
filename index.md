@@ -18,5 +18,3 @@ Feel free to reach out by email: `firstname.lastname(at)physics.ox.ac.uk`.
 
 All of my work is publicly tracked on [GitHub](https://github.com/mb010).
 
-
-
